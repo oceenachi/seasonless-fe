@@ -1,0 +1,24 @@
+.heroDiv {
+    color: #251f68 !important;
+  }
+  
+  .rightNav {
+    display: flex;
+    margin-left: auto;
+  }
+  
+  @media screen and (max-width: 996px) {
+  
+    .rightNav {
+      flex-direction: column;
+      margin-left: 0px !important;
+  
+    }
+  }
+  
+  
+  .navbar-any {
+    /* background-image: url("./assets/book-search-outline.svg"); */
+    /* background-image: url("./assets/img.svg"); */
+  }
+  
